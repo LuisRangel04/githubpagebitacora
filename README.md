@@ -1,2 +1,0 @@
-# githubpagebitacora
-Bitacora Estudiantil
